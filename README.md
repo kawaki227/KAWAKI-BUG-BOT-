@@ -19,6 +19,7 @@
 <a href="https://www.youtube.com/@KA-WA-KI"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@KA-WA-KI" /><br>
 
 #### COPIE ET PASSE CES COMMANDES SI TU VEUX DÉPLOYER  [`KAWAKI-BUG-BOT`](https://github.com/kawaki227/KAWAKI-BUG-BOT-/) SUR UN TERMINAL 
+```
 sudo apt -y update && sudo apt -y upgrade
 sudo apt -y install git ffmpeg curl
 curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
@@ -30,10 +31,10 @@ git clone https://github.com/kawaki227/KAWAKI-BUG-BOT-/
 cd KAWAKI-BUG-BOT-
 yarn install 
 npm start
- 
-
+ ```
 
 # Déployement sur termux
+```
 atp update
 apt upgrade
 pkg update && pkg upgrade
@@ -49,11 +50,14 @@ termux-setup-storage
  cd KAWAKI-BUG-BOT-
 yarn install
 npm start
+```
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 - si tu veux le bot pour  24/7 (peut ne pas fonctionner) 
-js
+
+```
 npm i -g forever && forever index.js && forever save && forever logs
+```
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

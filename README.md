@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+KAWAKI-BUG-BOT-;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPPER+PAR+KAWAKI227" alt="Typing SVG" /></a>
 </p>
-<a><img src='https://i.imgur.com/LSWGssv.png'/></a><a><img src=''/></a>
+<a><img src=''/></a><a><img src=''/></a>
 
 ### Si vous souhaitez déployer ailleurs, téléchargez votre creds.json dans le dossier de session après avoir obtenu le code de paire sur replit.
 
@@ -144,5 +144,5 @@ Un grand merci à [![`DGxeon`](https://github.com/DGXeon.png?size=100)](https://
 
 ### DÉVELOPPER : 
  
- [![`KAWAKI`](github.com/kawaki227.png?size=100)](github.com/kawaki227)
+ ici [![`KAWAKI`](github.com/kawaki227.png?size=100)](github.com/kawaki227)
 

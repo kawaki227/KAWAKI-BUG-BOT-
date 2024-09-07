@@ -18,94 +18,43 @@
 ## Pour regarder des tutoriels.
 <a href="https://www.youtube.com/@KA-WA-KI"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@KA-WA-KI" /><br>
 
-
-</br>
-
 #### COPIE ET PASSE CES COMMANDES SI TU VEUX DÉPLOYER  [`KAWAKI-BUG-BOT`](https://github.com/kawaki227/KAWAKI-BUG-BOT-/) SUR UN TERMINAL 
-```
 sudo apt -y update && sudo apt -y upgrade
-```
-```
 sudo apt -y install git ffmpeg curl
-```
-```
 curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
-```
-```
 sudo -E bash nodesource_setup.sh
-```
-```
 sudo apt-get install -y nodejs
-```
-```
 sudo npm install -g yarn
-```
-```
 sudo yarn global add pm2
-```
-```
-git clone https://github.com/SatoruTech/Satoru-Bug-Bot/  
-```
-```
+git clone https://github.com/kawaki227/KAWAKI-BUG-BOT-/  
 cd KAWAKI-BUG-BOT-
 yarn install 
 npm start
-```
  
 
 
 # Déployement sur termux
-```
-termux-setup-storage
-```
-```
-apt update
-```
-```
+atp update
 apt upgrade
-```
-```
 pkg update && pkg upgrade
-```
-```
 pkg install bash
-```
-```
-pkg install libwebp
-```
-```
-pkg install git -y
-```
-```
-pkg install nodejs -y
-```
-```
-pkg install ffmpeg -y 
-```
-```
+pkg install git
+pkg install nodejs
+pkg install ffmpeg
 pkg install wget
-```
-```
+pkg install imagemagick
 pkg install yarn
-```
-```
-git clone (copie et passe le lien du repo que tu a fork) 
-```
-```
-cd KAWAKI-BUG-BOT-
-```
-```
+termux-setup-storage
+ git clone https://github.com/🍁copie et passe le lien du repo que tu a fork🍁/KAWAKK-BUG-BOT-
+ cd KAWAKI-BUG-BOT-
 yarn install
-```
-```
 npm start
-```
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 - si tu veux le bot pour  24/7 (peut ne pas fonctionner) 
-```js
+js
 npm i -g forever && forever index.js && forever save && forever logs
-```
-<br>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
@@ -113,18 +62,6 @@ npm i -g forever && forever index.js && forever save && forever logs
 
 - [`Télécharger Node.js`](https://nodejs.org/en/download/)
 
-```cmd
-> git https://github.com/kawaki227/KAWAKI-BUG-BOT-/
-```
-```
-> cd KAWAKI-BUG-BOT+
-```
-```
-> yarn install
-```
-```
-> npm start
-```
 <a><img src='https://i.imgur.com/LyHic3i.png'/></a><a><img src=''/></a>
 
 ## ```Contacter moi ici```<img src="https://github.com/kawaki227/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
@@ -135,13 +72,11 @@ npm i -g forever && forever index.js && forever save && forever logs
 <a href="https://www.youtube.com/@KA-WA-KI"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@KA-WA-KI" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.png&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src=''/></a>
 
  ## Remerciements
 
 Un grand merci à [![`DGxeon`](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon) pour la création de la base de données utilisée par le bot **KAWAKI-BUG-BOT-**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
 
 ### DÉVELOPPER : 
-- [`KAWAKI`](github.com/kawaki227)
-- [`KAWAKI227-WAHTSSAP-NUM`](https://wa.me/22781289418?text=SALUT-✮͢≛⃝❄️❖𝐊𝐀𝐖𝐀𝐊𝐈❖)
-
+- [`❖𝐊𝐀𝐖𝐀𝐊𝐈❖`](github.com/kawaki227)
+  

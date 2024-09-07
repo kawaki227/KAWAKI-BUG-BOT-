@@ -144,5 +144,5 @@ Un grand merci à [![`DGxeon`](https://github.com/DGXeon.png?size=100)](https://
 
 ### DÉVELOPPER : 
 - [`KAWAKI`](github.com/kawaki227)
-- [`KAWAKI227-WAHTSSAP-NUM`][https://wa.me/22781289418?text=SALUT-✮͢≛⃝❄️❖𝐊𝐀𝐖𝐀𝐊𝐈❖)
+- [`KAWAKI227-WAHTSSAP-NUM`](https://wa.me/22781289418?text=SALUT-✮͢≛⃝❄️❖𝐊𝐀𝐖𝐀𝐊𝐈❖)
 

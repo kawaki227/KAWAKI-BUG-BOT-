@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+KAWAKI-BUG-BOT-;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPPER+PAR+KAWAKI227" alt="Typing SVG" /></a>
 </p>
-<a><img src='https://i.imgur.com/LSWGssv.png'/></a><a><img src='https://i.imgur.com/LyHic3i.png'/></a>
+<a><img src='https://i.imgur.com/LSWGssv.png'/></a><a><img src=''/></a>
 
 ### Si vous souhaitez déployer ailleurs, téléchargez votre creds.json dans le dossier de session après avoir obtenu le code de paire sur replit.
 
@@ -126,7 +126,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 ```
 > npm start
 ```
-<a><img src='https://i.imgur.com/LyHic3i.png'/></a><a><img src='https://i.imgur.com/LSWGssv.png'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.png'/></a><a><img src=''/></a>
 
 ## ```Contacter moi ici```<img src="https://github.com/kawaki227/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
@@ -136,7 +136,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 <a href="https://www.youtube.com/@KA-WA-KI"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@KA-WA-KI" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.png&ct=g" /> </p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LSWGssv.png'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src=''/></a>
 
  ## Remerciements
 
@@ -144,5 +144,5 @@ Un grand merci à [![`DGxeon`](https://github.com/DGXeon.png?size=100)](https://
 
 ### DÉVELOPPER : 
  
-! [`KAWAKI`](github.com/kawaki227)
+ [![`KAWAKI`](github.com/kawaki227.png?size=100)](github.com/kawaki227)
 

@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+KAWAKI-BUG-BOT-;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPPER+PAR+KAWAKI227" alt="Typing SVG" /></a>
 </p>
-<a><img src=''/></a><a><img src=''/></a>
 
 ### Si vous souhaitez déployer ailleurs, téléchargez votre creds.json dans le dossier de session après avoir obtenu le code de paire sur replit.
 
@@ -48,13 +47,13 @@ sudo yarn global add pm2
 git clone https://github.com/SatoruTech/Satoru-Bug-Bot/  
 ```
 ```
-cd Satoru-Bug-Bot
+cd KAWAKI-BUG-BOT-
 yarn install 
 npm start
 ```
  
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 # Déployement sur termux
 ```
 termux-setup-storage

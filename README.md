@@ -110,7 +110,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <br>
-<h2 align="center"> 🛡️ Windows Cmd & Vs 🛡️ </h2>
+<h2 align="center"> 💫 ZÉRO SOUCIS 💫 </h2>
 
 - [`Télécharger Node.js`](https://nodejs.org/en/download/)
 
@@ -143,6 +143,6 @@ npm i -g forever && forever index.js && forever save && forever logs
 Un grand merci à [![`DGxeon`](https://github.com/DGXeon.png?size=100)](https://github.com/DGXeon) pour la création de la base de données utilisée par le bot **KAWAKI-BUG-BOT-**. Votre contribution est essentielle au bon fonctionnement du projet, et nous sommes très reconnaissants pour votre travail acharné et votre expertise.
 
 ### DÉVELOPPER : 
- 
- ici [![`KAWAKI`](github.com/kawaki227.png?size=100)](github.com/kawaki227)
+- [`KAWAKI`](github.com/kawaki227)
+- [`KAWAKI227-WAHTSSAP-NUM`][https://wa.me/22781289418?text=SALUT-✮͢≛⃝❄️❖𝐊𝐀𝐖𝐀𝐊𝐈❖)
 

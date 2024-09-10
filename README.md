@@ -46,7 +46,7 @@ pkg install wget
 pkg install imagemagick
 pkg install yarn
 termux-setup-storage
- git clone https://github.com/🍁copie et passe le lien du repo que tu a fork🍁/KAWAKK-BUG-BOT-
+ git clone https://github.com/🍁copie et passe le lien du repo que tu a fork🍁/KAWAKI-BUG-BOT-
  cd KAWAKI-BUG-BOT-
 yarn install
 npm start

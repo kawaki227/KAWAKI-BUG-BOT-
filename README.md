@@ -10,10 +10,10 @@
 ### Si vous souhaitez déployer ailleurs, téléchargez votre creds.json dans le dossier de session après avoir obtenu le code de paire sur replit.
 
 ### 1. <a href="https://github.com/kawaki227/KAWAKI-BUG-BOT-/fork"><img title="WEB" src="https://img.shields.io/badge/Fork KAWAKI-BUG-BOT?color=black&style=for-the-badge&logo=stackshare"></a>
-### 2. <a href="https://replit.com/@dmh2999/KAWAKI BUG-Pair-Code?v=1"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
-### 3. <a href="https://replit.com/@dmh299/KAWAKI BUG-Pair-Code?v=1"><img src="https://img.shields.io/badge/PAIR_CODE-orange" alt="Clique ici si le pairing code 1 ne marche pas" width="90"></a>
+### 2. <a href="https://replit.com/@dmh2999/KAWAKI-BUG-BOT--Pair-Code?v=1"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
+### 3. <a href="https://replit.com/@dmh2999/KAWAKI-BUG-BOT--Pair-Code?v=1"><img src="https://img.shields.io/badge/PAIR_CODE-orange" alt="Clique ici si le pairing code 1 ne marche pas" width="90"></a>
 ### 4. <a href='https://solarhosting.cc/' target="_blank"><img alt='Panel Link' src='https://img.shields.io/badge/-DEPLOYER%20SUR%20PANEL-pink?style=for-the-badge&logo=Cloudflare&logoColor=white'/></a>
-### 5. <a href='https://replit.com/@dmh2999/KAWAKI-BUG-BOT' target="_blank"><img alt='Deployer sur Replit' src='https://img.shields.io/badge/-DEPLOYER SUR REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>  
+### 5. <a href='https://replit.com/@dmh2999/KAWAKI-BUG-BOT-' target="_blank"><img alt='Deployer sur Replit' src='https://img.shields.io/badge/-DEPLOYER SUR REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>  
 
 ## Pour regarder des tutoriels.
 <a href="https://www.youtube.com/@KA-WA-KI"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@KA-WA-KI" /><br>
